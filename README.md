@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://infoviasistemas.com.br/wp-content/uploads/2022/03/4-1-1024x348.png" alt="Questor" width="120">
+  <img src="https://infoviasistemas.com.br/wp-content/uploads/2022/03/4-1-1024x348.png" alt="Questor" width="400">
 
 <br />
 BoletosApi
