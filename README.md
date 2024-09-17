@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://rhgestorstorage.blob.core.windows.net/rhgestor-prod/arquivos/upload/19750/logo/logomarca.png?sv=2020-08-04&se=2024-09-17T01%3A13%3A12Z&sr=b&sp=r&sig=DGB%2B0bgaNypvyNypqHcff1XDEWkFwymZnYqMEGjUw64%3D" alt="Questor" width="120">
+  <img src="https://infoviasistemas.com.br/wp-content/uploads/2022/03/4-1-1024x348.png" alt="Questor" width="120">
 
 <br />
 BoletosApi
