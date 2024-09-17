@@ -30,6 +30,8 @@ Esta aplicação é uma API desenvolvida com ASP.NET Core para gerenciamento de 
      "DefaultConnection": "Host=localhost;Port=SuaPorta;Database=Boletos;Username=SeuUsuario;Password=SuaSenha"
    }
    ```
+
+## Prepare o ambiente de desenvolvimento e execute a aplicação
 7. Caso esteja utilizando Windows, execute o comando `set ASPNETCORE_ENVIRONMENT=Development` para atualizar o ambiente de para desenvolvimento<br />
 8. Execute o comando `dotnet run --project BoletosApi` para iniciar a aplicação<br />
 9. Caso esteja utilizando Mac ou Linux, execute o comando `ASPNETCORE_ENVIRONMENT=Development dotnet run --project BoletosApi` para atualizar o ambiente de para desenvolvimento e iniciar a aplicação<br />
