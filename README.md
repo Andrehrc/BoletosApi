@@ -52,3 +52,7 @@ Esta aplicação é uma API desenvolvida com ASP.NET Core para gerenciamento de 
 ## Documentação
 
 A documentação da API está disponível em Swagger após iniciar o projeto.
+
+<br />
+<img src="./assets/host.png" />
+<br />
