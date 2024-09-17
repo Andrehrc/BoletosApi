@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoletosApi", "BoletosApi\BoletosApi.csproj", "{4123EC2C-D37D-4BF3-849B-E99C6D6A5EE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoletosApi.Models", "BoletosApi.Models\BoletosApi.Models.csproj", "{4756BBD1-BD5F-4162-84EF-8CCACB368BA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4123EC2C-D37D-4BF3-849B-E99C6D6A5EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4123EC2C-D37D-4BF3-849B-E99C6D6A5EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4123EC2C-D37D-4BF3-849B-E99C6D6A5EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4123EC2C-D37D-4BF3-849B-E99C6D6A5EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4756BBD1-BD5F-4162-84EF-8CCACB368BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4756BBD1-BD5F-4162-84EF-8CCACB368BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4756BBD1-BD5F-4162-84EF-8CCACB368BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4756BBD1-BD5F-4162-84EF-8CCACB368BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FA7876C-356E-43D2-9CA5-8679CBA9A309}
+	EndGlobalSection
+EndGlobal
